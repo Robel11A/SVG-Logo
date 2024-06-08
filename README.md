@@ -12,3 +12,7 @@ A command-line application to generate simple SVG logo based on user input.
 
 ## Video Demonstration
 [Link to video](./assets/SVG-LOGO.mov)
+
+
+https://github.com/Robel11A/SVG-Logo/assets/164986243/5043229a-9a1d-4115-abf8-0f9934d0c306
+
