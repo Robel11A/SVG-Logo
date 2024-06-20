@@ -1,5 +1,27 @@
 {
+  "name": "svg-logo",
+  "version": "1.0.0",
+  "description": "SVG-Logo",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+ 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Robel11A/SVG-Logo.git"
+  },
+  "author": "robel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Robel11A/SVG-Logo/issues"
+  },
+  "homepage": "https://github.com/Robel11A/SVG-Logo#readme",
   "dependencies": {
-    "inquirer": "^8.2.4"
+    "inquirer": "^8.2.4",
+    "jest": "^29.7.0"
   }
 }
